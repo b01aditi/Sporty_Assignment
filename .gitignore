@@ -1,0 +1,8 @@
+# Ignore Python cache inside APIassignmentPartB folder
+APIassignmentPartB/__pycache__/
+APIassignmentPartB/**/__pycache__/
+
+# Ignore IDE and build folders inside WebAssignmentPartA
+WebAssignmentPartA/.idea/
+WebAssignmentPartA/artifacts/
+WebAssignmentPartA/target/
